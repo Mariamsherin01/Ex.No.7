@@ -1,11 +1,12 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
+# Date: 22/10/25
+# Register no. 212222060143
 # Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 #AI Tools Required: 
-
+Chatgpt
+Lovable app
 
 # Explanation: 
 Prompt:
@@ -16,8 +17,11 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
+
 Output (Example Response by LLM):
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1da5bdc8-3d31-4cb2-a2df-3c9d10be0423" />
+
 Personal Productivity Assistant Features:
 1. Daily Task Manager:
 o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
